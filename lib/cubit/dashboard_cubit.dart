@@ -5,7 +5,6 @@ import 'package:class_assignment_2/cubit/simple_interest_cubit.dart';
 import 'package:class_assignment_2/view/bmi_calculator_view.dart';
 import 'package:class_assignment_2/view/circle_area_view.dart';
 import 'package:class_assignment_2/view/simple_interest_view.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

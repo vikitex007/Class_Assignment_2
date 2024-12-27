@@ -14,7 +14,7 @@ class DashboardView extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.blue,
 
-        title: const Text('Sachin Dashboard'),
+        title: const Text('Sachin Class Assignment 2'),
         centerTitle: true,
       ),
       body: GridView(
